@@ -34,3 +34,8 @@ __pycache__/
 *.tmp
 *.temp
 *.log
+
+# Docker files
+docker-compose.yml
+Dockerfile
+mosquitto.conf
